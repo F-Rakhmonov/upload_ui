@@ -1,0 +1,6 @@
+
+{
+  "name": "Sketch Upload UI",
+  "description": "A web application for uploading sketch images, replicating a given UI design. Users can select files for different categories of drawings.",
+  "requestFramePermissions": []
+}
